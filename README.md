@@ -19,7 +19,6 @@
 
 在确保Python环境已经安装的情况下，使用以下命令安装依赖：
 
-bash
 pip install -r requirements.txt
 
 
@@ -30,7 +29,6 @@ pip install -r requirements.txt
   运行 `main.py`，根据提示输入美篇账号，选择爬取选项（全部或单篇）。
 
   
-bash
   python main.py
   
 
@@ -40,7 +38,6 @@ bash
   运行 `index.py` 生成已转存文章的列表页和详情页。
 
   
-bash
   python index.py
   
 
