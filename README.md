@@ -19,8 +19,9 @@
 
 在确保Python环境已经安装的情况下，使用以下命令安装依赖：
 
+```bash
 pip install -r requirements.txt
-
+```
 
 ### 2. 运行程序
 
@@ -28,18 +29,18 @@ pip install -r requirements.txt
 
   运行 `main.py`，根据提示输入美篇账号，选择爬取选项（全部或单篇）。
 
-  
-  python main.py
-  
+```bash
+python main.py
+```
 
 
 - 生成本地页面：
 
   运行 `index.py` 生成已转存文章的列表页和详情页。
 
-  
-  python index.py
-  
+```bash  
+python index.py
+```  
 
 
 ## 文件结构
